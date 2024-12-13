@@ -5,3 +5,4 @@
 - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 - [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+- [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
