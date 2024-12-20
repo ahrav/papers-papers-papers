@@ -11,3 +11,4 @@
 - [Dynamo: Amazon’s Highly Available Key-value Store ](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
+- [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
