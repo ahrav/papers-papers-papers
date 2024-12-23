@@ -12,3 +12,4 @@
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+- [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf)
